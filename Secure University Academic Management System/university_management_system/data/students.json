@@ -1,0 +1,28 @@
+{
+  "S1001": {
+    "name": "Ali Khan",
+    "email": "ali@uni.edu",
+    "program": "BSCS",
+    "password_hash": "$2b$12$oxcSL0Gxqik72.3Lckwym.EsP1gcepc1EaYgI8BNr0OEc1DxWLAWm",
+    "enrolled_courses": [
+      "CS101"
+    ],
+    "cgpa": 0.0,
+    "record_hash": "15336de8077ed7e9a14cca51f96f3a4ee63618c3a312997c677e09721fc49328"
+  },
+  "S1002": {
+    "name": "Amina Ahmed",
+    "email": "amina@uni.edu",
+    "program": "BSSE",
+    "password_hash": "$2b$12$oxcSL0Gxqik72.3Lckwym.EsP1gcepc1EaYgI8BNr0OEc1DxWLAWm",
+    "enrolled_courses": [],
+    "cgpa": 0.0,
+    "record_hash": "4ba926cb5ecfabfc0507900a763d02b5dfecc6a8ec779819649cd03beb5da7b5"
+  },
+  "S7777": {
+    "name": "Smoke Student",
+    "email": "smoke@uni.edu",
+    "password_hash": "$2b$12$K1cSLL2yeAoIDcUv2aA70uL/A69o7/ugEdOH0TRyCyTypNBUPbt1q",
+    "record_hash": "0bc3790a1370cba23aa8f43c5b2f34b69d3a96b9e2759c319fb537ac37805b31"
+  }
+}

@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Faculty Dashboard</title>
+  <link rel="stylesheet" href="/static/styles.css">
+  <script src="/static/scripts.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <h2>Faculty Dashboard</h2>
+    <h3>Assigned Courses</h3>
+    <ul>
+      {% for c in assigned %}
+        <li>{{ c }}</li>
+      {% endfor %}
+    </ul>
+    <h4>Upload Grade</h4>
+    <form id="gradeForm">
+      <input name="student" placeholder="Student ID">
+      <input name="course" placeholder="Course ID">
+      <input name="score" placeholder="Score">
+      <input name="semester" placeholder="Semester">
+      <button type="submit">Upload</button>
+    </form>
+    <p><a href="/logout">Logout</a></p>
+  </div>
+</body>
+</html>

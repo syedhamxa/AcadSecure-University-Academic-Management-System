@@ -1,0 +1,22 @@
+{
+  "CS101": {
+    "title": "Intro to Computer Science",
+    "credits": 3,
+    "prerequisites": [],
+    "record_hash": "b92948254faa444365391bcea1496876056277104da9e2303faebdd8a464348c"
+  },
+  "CS201": {
+    "title": "Data Structures",
+    "credits": 3,
+    "prerequisites": [
+      "CS101"
+    ],
+    "record_hash": "59b071657bbee412d752a5fe3f24c0db6c44ee419d612a5447ae42086f03c2bc"
+  },
+  "MATH101": {
+    "title": "Calculus I",
+    "credits": 4,
+    "prerequisites": [],
+    "record_hash": "a4740061ccd43fc23d9ce88c1d46535e24995d91274b078b7385a9b2ee227ef7"
+  }
+}

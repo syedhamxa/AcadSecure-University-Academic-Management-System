@@ -1,0 +1,8 @@
+{
+  "S9999": {
+    "name": "Test Student",
+    "email": "teststudent@uni.edu",
+    "password_hash": "$2b$12$GvQqUPvqdnktVMRXZjp.b.hYG7SS7dBIp.al6QlU4khAZ9z3ksmNe",
+    "record_hash": "fccd084c73de752347ff08421d4dacf6678f526de5ef20dfb07d22037ed022fa"
+  }
+}

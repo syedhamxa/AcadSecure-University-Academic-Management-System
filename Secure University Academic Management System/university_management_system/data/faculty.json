@@ -1,0 +1,24 @@
+{
+  "F2001": {
+    "name": "Dr. Sana Ahmad",
+    "email": "sana@uni.edu",
+    "password_hash": "$2b$12$oxcSL0Gxqik72.3Lckwym.EsP1gcepc1EaYgI8BNr0OEc1DxWLAWm",
+    "assigned_courses": [
+      "CS101"
+    ],
+    "record_hash": "023a89cf26e50754f1baffb49b50214d52f809175cc35201513ffc30986b3d02"
+  },
+  "F2002": {
+    "name": "Dr. Ahmed Hassan",
+    "email": "ahmed@uni.edu",
+    "password_hash": "$2b$12$oxcSL0Gxqik72.3Lckwym.EsP1gcepc1EaYgI8BNr0OEc1DxWLAWm",
+    "assigned_courses": [],
+    "record_hash": "d76aa667da3b0269884c18e37fcd981f6aad2b96a8fe613a7eaf9812524a92ad"
+  },
+  "Syed123": {
+    "name": "Syed Muhammad Hamza Farrukh",
+    "email": "muhammad.16848_n@iqra.edu.pk",
+    "password_hash": "$2b$12$p9sPbqVVpV/Flc194W3qf.T6lvi1DVhgK0kwMnO.rRzLgl.a3yIWS",
+    "record_hash": "652d7ef57d17cc3698b72c90b91d40b3649d7bb6cf62fdc0f2c4ae5f9bd177f8"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "A3001": {
+    "name": "Admin User",
+    "email": "admin@uni.edu",
+    "password_hash": "$2b$12$oxcSL0Gxqik72.3Lckwym.EsP1gcepc1EaYgI8BNr0OEc1DxWLAWm",
+    "record_hash": "25306f6bfa58bfb46449d14278674fa073d2f49cc81e777dc0492f43181e8bc5"
+  }
+}
